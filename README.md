@@ -1,4 +1,1 @@
 # debug-project
-
-[:warning:]  
-:warning:
