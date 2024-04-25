@@ -1,1 +1,3 @@
 # debug-project
+
+[:warning:]
